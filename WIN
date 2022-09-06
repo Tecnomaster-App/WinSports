@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="Deportes",Win Sports
+#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 5.1.1)
+https://app.ultimate2019.com/stream/get/292&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="HD",Win Sports +
+#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 5.1.1)
+https://app.ultimate2019.com/stream/get/881&f=.m3u8
